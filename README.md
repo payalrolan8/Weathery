@@ -1,5 +1,3 @@
-
-
 # Weatherly
 
 A simple React application where the user enters a location and gets the current weather for that place using the OpenWeather API.
