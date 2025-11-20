@@ -2,19 +2,19 @@
 
 # Weatherly
 
-A simple React application where the user enters a location and receives the current weather for that place using a weather API.
+A simple React application where the user enters a location and gets the current weather for that place using the OpenWeather API.
 
 ## Features
 
-* Search weather by location
-* Shows temperature, humidity, and basic conditions
-* Minimal and easy to use
+* Search weather by city or location
+* Shows temperature, humidity, wind, and basic conditions
+* Clean and minimal interface
 
 ## Tech Used
 
 * React
 * Vite
-* Weather API (OpenWeather or similar)
+* OpenWeather API
 
 ## How to Run
 
@@ -31,7 +31,7 @@ A simple React application where the user enters a location and receives the cur
 3. Create a `.env` file:
 
    ```
-   VITE_WEATHER_API_KEY=your_api_key
+   VITE_WEATHER_API_KEY=your_openweather_api_key
    ```
 4. Start the app:
 
@@ -50,4 +50,5 @@ npm run preview
 ```
 
 
-Tell me if you want this even shorter or want a logo/title emoji added.
+
+If you want, I can add a short description of how your API call works.
